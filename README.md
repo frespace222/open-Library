@@ -7,7 +7,10 @@ https://open-library.pages.dev/
 https://open-library.pages.dev/qrcode1.5_bulid.min.js        //生成二维码
 
 
-https://open-library.pages.dev/qrcode1.4.0_scan.min.js       //解析/扫码识别二维码
+https://open-library.pages.dev/qrcode1.4.0_scan.min.js       //解析/扫码识别二维码1.4.0
+
+
+https://open-library.pages.dev/qrcode3.1.7_scan.min.js       //解析/扫码识别二维码3.1.7
 
 
 https://open-library.pages.dev/ethers5.7.2_umd.min.js        //以太坊通用库，连接钱包、派生地址、 签名等
